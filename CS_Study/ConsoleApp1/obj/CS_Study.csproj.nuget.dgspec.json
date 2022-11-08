@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS\\C#_Study\\Programing_Study\\CS_Study\\ConsoleApp1\\CS_Study.csproj": {}
+    "D:\\SoursceTree\\Study\\CS_Study\\ConsoleApp1\\CS_Study.csproj": {}
   },
   "projects": {
-    "D:\\VS\\C#_Study\\Programing_Study\\CS_Study\\ConsoleApp1\\CS_Study.csproj": {
+    "D:\\SoursceTree\\Study\\CS_Study\\ConsoleApp1\\CS_Study.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS\\C#_Study\\Programing_Study\\CS_Study\\ConsoleApp1\\CS_Study.csproj",
+        "projectUniqueName": "D:\\SoursceTree\\Study\\CS_Study\\ConsoleApp1\\CS_Study.csproj",
         "projectName": "CS_Study",
-        "projectPath": "D:\\VS\\C#_Study\\Programing_Study\\CS_Study\\ConsoleApp1\\CS_Study.csproj",
+        "projectPath": "D:\\SoursceTree\\Study\\CS_Study\\ConsoleApp1\\CS_Study.csproj",
         "packagesPath": "C:\\Users\\82105\\.nuget\\packages\\",
-        "outputPath": "D:\\VS\\C#_Study\\Programing_Study\\CS_Study\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\SoursceTree\\Study\\CS_Study\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\82105\\AppData\\Roaming\\NuGet\\NuGet.Config",
