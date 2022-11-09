@@ -14,6 +14,7 @@ namespace ConsoleApp1
             short level = 100;  // 레벨같은 한정적인 부분은 short등을 쓰지만 90%는 int사용. 최적화용
             long Id; // 아이템 아이디같은 정보는 long으로 관리해야 나중가서 편함.
 
+            //소스트리 ClonText확인용 주석 추가
 
             Console.WriteLine("Hello World!");
            
