@@ -15,6 +15,18 @@ namespace ConsoleApp1
             long Id; // 아이템 아이디같은 정보는 long으로 관리해야 나중가서 편함.
 
             //소스트리 ClonText확인용 주석 추가
+            //소수
+            //4바이트
+            float f = 3.14f;
+            //8바이트
+            double d = 3.14;
+
+            //2바이트
+
+            char c = 'a';
+            string str = "Hello World";
+
+            //불리언, 소수, 문자, 문자열 형식
 
             Console.WriteLine("Hello World!");
            
