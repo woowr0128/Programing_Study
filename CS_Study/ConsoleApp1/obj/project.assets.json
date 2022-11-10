@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoursceTree\\Study\\CS_Study\\ConsoleApp1\\CS_Study.csproj",
+      "projectUniqueName": "C:\\Users\\82105\\Documents\\Programing_Study\\CS_Study\\ConsoleApp1\\CS_Study.csproj",
       "projectName": "CS_Study",
-      "projectPath": "D:\\SoursceTree\\Study\\CS_Study\\ConsoleApp1\\CS_Study.csproj",
+      "projectPath": "C:\\Users\\82105\\Documents\\Programing_Study\\CS_Study\\ConsoleApp1\\CS_Study.csproj",
       "packagesPath": "C:\\Users\\82105\\.nuget\\packages\\",
-      "outputPath": "D:\\SoursceTree\\Study\\CS_Study\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\82105\\Documents\\Programing_Study\\CS_Study\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\82105\\AppData\\Roaming\\NuGet\\NuGet.Config",
