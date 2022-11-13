@@ -32,19 +32,19 @@ namespace ConsoleApp1
 
 
             //1. 바구니 크기가 다른 경우!
-            int a = 0xFFFF;
-            short b = (short)a;
+            //int a = 0xFFFF;
+            //short b = (short)a;
 
             // 2. 바구니 크기는 같은데, 부호가 다를 경우
-            byte c = 255;
-            sbyte sb = (sbyte)c;
+            //byte c = 255;
+            //sbyte sb = (sbyte)c;
             //underflow (언더 플로우), overflow(오버 플로우)
             //0xFF  = 0b11111111 = -1
 
             // 3. 소수
-            float f = 3.1414f;
+            //float f = 3.1414f;
 
-            double d = f;
+            //double d = f;
 
 
         }
