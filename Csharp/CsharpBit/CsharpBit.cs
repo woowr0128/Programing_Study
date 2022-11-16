@@ -2,7 +2,7 @@
 
 namespace CsharpBit
 {
-    class Program
+    class CsharpBit
     {
         static void Main(string[] args)
         {
