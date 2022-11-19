@@ -1,0 +1,13 @@
+C:\Users\82105\Documents\Programing_Study\Csharp\CsharpStudy\bin\Debug\netcoreapp3.1\CsharpStudy.exe
+C:\Users\82105\Documents\Programing_Study\Csharp\CsharpStudy\bin\Debug\netcoreapp3.1\CsharpStudy.deps.json
+C:\Users\82105\Documents\Programing_Study\Csharp\CsharpStudy\bin\Debug\netcoreapp3.1\CsharpStudy.runtimeconfig.json
+C:\Users\82105\Documents\Programing_Study\Csharp\CsharpStudy\bin\Debug\netcoreapp3.1\CsharpStudy.runtimeconfig.dev.json
+C:\Users\82105\Documents\Programing_Study\Csharp\CsharpStudy\bin\Debug\netcoreapp3.1\CsharpStudy.dll
+C:\Users\82105\Documents\Programing_Study\Csharp\CsharpStudy\bin\Debug\netcoreapp3.1\CsharpStudy.pdb
+C:\Users\82105\Documents\Programing_Study\Csharp\CsharpStudy\obj\Debug\netcoreapp3.1\CsharpStudy.csprojAssemblyReference.cache
+C:\Users\82105\Documents\Programing_Study\Csharp\CsharpStudy\obj\Debug\netcoreapp3.1\CsharpStudy.AssemblyInfoInputs.cache
+C:\Users\82105\Documents\Programing_Study\Csharp\CsharpStudy\obj\Debug\netcoreapp3.1\CsharpStudy.AssemblyInfo.cs
+C:\Users\82105\Documents\Programing_Study\Csharp\CsharpStudy\obj\Debug\netcoreapp3.1\CsharpStudy.csproj.CoreCompileInputs.cache
+C:\Users\82105\Documents\Programing_Study\Csharp\CsharpStudy\obj\Debug\netcoreapp3.1\CsharpStudy.dll
+C:\Users\82105\Documents\Programing_Study\Csharp\CsharpStudy\obj\Debug\netcoreapp3.1\CsharpStudy.pdb
+C:\Users\82105\Documents\Programing_Study\Csharp\CsharpStudy\obj\Debug\netcoreapp3.1\CsharpStudy.genruntimeconfig.cache
