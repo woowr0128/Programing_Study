@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ParkWonJae\\Study\\Csharp\\CsharpBit\\CsharpBit.csproj",
-      "projectName": "CsharpBit",
-      "projectPath": "C:\\Users\\ParkWonJae\\Study\\Csharp\\CsharpBit\\CsharpBit.csproj",
+      "projectUniqueName": "C:\\Users\\ParkWonJae\\Study\\Csharp\\CsharpBit\\Csharp.csproj",
+      "projectName": "Csharp",
+      "projectPath": "C:\\Users\\ParkWonJae\\Study\\Csharp\\CsharpBit\\Csharp.csproj",
       "packagesPath": "C:\\Users\\ParkWonJae\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ParkWonJae\\Study\\Csharp\\CsharpBit\\obj\\",
       "projectStyle": "PackageReference",

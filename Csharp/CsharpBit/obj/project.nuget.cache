@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "70XpIXtAx9ST6uadMrNt9indQnDhlJS2stCPrGnfXBPF9MjLm8Z2BQc35S3dDK1HOxMIpMQnX2sw8arfQbjNDQ==",
+  "dgSpecHash": "FeI+iTtK7w+E4fB9DRCWHGgZfuX8TeRMNUKZSKz7qQthTvcGBG5dUTF47osuVImTXUsv0DoNlSimTGfkUo67Hw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ParkWonJae\\Study\\Csharp\\CsharpBit\\CsharpBit.csproj",
+  "projectFilePath": "C:\\Users\\ParkWonJae\\Study\\Csharp\\CsharpBit\\Csharp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ParkWonJae\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
   ],
