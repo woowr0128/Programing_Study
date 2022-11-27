@@ -89,4 +89,9 @@ namespace CsharpBit
 
     //2022년 11월 24일 카타르 월드컵 보는중...
     // 하루만 ..ㅎㅎ
+
+    //git 버그
+    //git congif rebase
+    //소스트리 오류 확인.
+    //소스트리 오류 해결
 }
