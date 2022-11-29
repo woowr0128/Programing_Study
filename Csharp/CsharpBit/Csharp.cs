@@ -12,19 +12,33 @@ namespace CsharpBit
         //-------------------------------------------------------------------
 
         //덧셈함수(예시)
-        static int Add(int a, int b)
+        //static int Add(int a, int b)
+        //{
+        //    int result = a + b;
+        //    return result;
+        //}
+        //static void Main(string[] args)
+        //{
+        //    //HelloWorld();
+        //    //-----------------------------------------------------------------
+        //    //4, 5 = 9
+        //    int result = Csharp.Add(4, 5);
+        //    Console.WriteLine(result);
+        //}
+            
+        //-------------------------------------------------------------------------
+
+        static void AddOne(ref int number)
         {
-            int result = a + b;
-            return result;
+            number = number + 1;
         }
+
         static void Main(string[] args)
         {
-            //HelloWorld();
-            //-----------------------------------------------------------------
-            //4, 5 = 9
-            int result = Csharp.Add(4, 5);
-            Console.WriteLine(result);
+            int a = 0;
+            Csharp.AddOne(ref a);
+
+            Console.WriteLine(a);
         }
-            
     }
 }
