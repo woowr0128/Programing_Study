@@ -33,11 +33,20 @@ namespace CsharpBit
             number = number + 1;
         }
 
+        static int AddOne2(int number)
+        {
+            return number + 1;
+        }
+
         static void Main(string[] args)
         {
             int a = 0;
             Csharp.AddOne(ref a);
 
+            Console.WriteLine(a);
+
+            int b = Csharp.AddOne2(a);
+            a = b;
             Console.WriteLine(a);
         }
     }
