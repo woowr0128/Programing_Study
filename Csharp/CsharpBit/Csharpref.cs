@@ -21,6 +21,8 @@ namespace CsharpBit
             Divide(10, 3, out result1, out result2);
 
             Console.WriteLine(result1);
+
+            //12월 2일 대한민국vs포루투갈 대한민국 16강..가자...
         }
     }
 }
