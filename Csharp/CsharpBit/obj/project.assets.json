@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\82105\\.nuget\\packages\\": {}
+    "C:\\Users\\ParkWonJae\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\82105\\Documents\\Programing_Study\\Csharp\\CsharpBit\\Csharp.csproj",
+      "projectUniqueName": "C:\\Users\\ParkWonJae\\Study\\Csharp\\CsharpBit\\Csharp.csproj",
       "projectName": "Csharp",
-      "projectPath": "C:\\Users\\82105\\Documents\\Programing_Study\\Csharp\\CsharpBit\\Csharp.csproj",
-      "packagesPath": "C:\\Users\\82105\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\82105\\Documents\\Programing_Study\\Csharp\\CsharpBit\\obj\\",
+      "projectPath": "C:\\Users\\ParkWonJae\\Study\\Csharp\\CsharpBit\\Csharp.csproj",
+      "packagesPath": "C:\\Users\\ParkWonJae\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ParkWonJae\\Study\\Csharp\\CsharpBit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\82105\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ParkWonJae\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -55,12 +55,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.25, 3.1.25]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
