@@ -11,3 +11,8 @@ C:\Users\82105\Documents\Programing_Study\Csharp\CsharpStudy\obj\Debug\netcoreap
 C:\Users\82105\Documents\Programing_Study\Csharp\CsharpStudy\obj\Debug\netcoreapp3.1\CsharpStudy.dll
 C:\Users\82105\Documents\Programing_Study\Csharp\CsharpStudy\obj\Debug\netcoreapp3.1\CsharpStudy.pdb
 C:\Users\82105\Documents\Programing_Study\Csharp\CsharpStudy\obj\Debug\netcoreapp3.1\CsharpStudy.genruntimeconfig.cache
+C:\Users\ParkWonJae\Study\Csharp\CsharpStudy\obj\Debug\netcoreapp3.1\CsharpStudy.csproj.AssemblyReference.cache
+C:\Users\ParkWonJae\Study\Csharp\CsharpStudy\obj\Debug\netcoreapp3.1\CsharpStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ParkWonJae\Study\Csharp\CsharpStudy\obj\Debug\netcoreapp3.1\CsharpStudy.AssemblyInfoInputs.cache
+C:\Users\ParkWonJae\Study\Csharp\CsharpStudy\obj\Debug\netcoreapp3.1\CsharpStudy.AssemblyInfo.cs
+C:\Users\ParkWonJae\Study\Csharp\CsharpStudy\obj\Debug\netcoreapp3.1\CsharpStudy.csproj.CoreCompileInputs.cache
