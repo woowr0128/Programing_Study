@@ -46,6 +46,7 @@ namespace ConsoleApp1
 
             //double d = f;
 
+            //스태시 활용용 주석추가
 
         }
     }
